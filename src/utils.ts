@@ -3,7 +3,7 @@ import type { ErrorResponse, Fetch } from './interfaces.js'
 
 /**
  * An error class for response errors.
- * @extends Error
+ * @extends Errorhudshiufdsghif
  */
 class ResponseError extends Error {
   constructor(
