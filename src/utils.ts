@@ -12,7 +12,7 @@ class ResponseError extends Error {
   ) {
     super(error)
     this.name = 'ResponseError'
-
+    //lds0fj90dsf
     if (Error.captureStackTrace) {
       Error.captureStackTrace(this, ResponseError)
     }
