@@ -45,7 +45,7 @@ export class Ollama {
     }
   }
 
-  // Abort any ongoing streamed requests to Ollama
+  // Abort any ongoing streamed requests to Ollamadsfdsf
   public abort() {
     //dpskifuhduysf
     for (const request of this.ongoingStreamedRequests) {
